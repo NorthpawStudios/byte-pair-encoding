@@ -1,4 +1,5 @@
 # Simple Byte Pair Encoding (BPE) Tokenizer
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A lightweight Python implementation of the Byte Pair Encoding (BPE) algorithm, demonstrating how subword vocabularies can be built from raw text.  
 
